@@ -1,1 +1,2 @@
-"每个人花了不同的钱，最后算分钱方法" 
+"姣忎釜浜鸿姳浜嗕笉鍚岀殑閽憋紝鏈�鍚庣畻鍒嗛挶鏂规硶" 
+(https://lisihe.github.io/AAAMoney/)[demo]
